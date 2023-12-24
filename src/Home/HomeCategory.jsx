@@ -7,37 +7,37 @@ const btnText = "Get Started Now";
 
 const categoryList = [
     {
-        imgUrl: './assets/images/category/01.jpg',
+        imgUrl: './assets/images/category/01.webp',
         imgAlt: 'Thriller Books',
         iconName: 'icofont-brand-windows',
         title: 'Thriller',
     },
     {
-        imgUrl: './assets/images/category/02.jpeg',
+        imgUrl: './assets/images/category/02.webp',
         imgAlt: 'Fantasy Books',
         iconName: 'icofont-brand-windows',
         title: 'Fantasy',
     },
     {
-        imgUrl: './assets/images/category/03.jpg',
+        imgUrl: './assets/images/category/03.webp',
         imgAlt: 'Science Fiction Books',
         iconName: 'icofont-brand-windows',
         title: 'Science Fiction',
     },
     {
-        imgUrl: '/assets/images/category/04.jpg',
+        imgUrl: '/assets/images/category/04.webp',
         imgAlt: 'History Books',
         iconName: 'icofont-brand-windows',
         title: 'History',
     },
     {
-        imgUrl: '/assets/images/category/05.jpg',
+        imgUrl: '/assets/images/category/05.webp',
         imgAlt: 'Biography Books',
         iconName: 'icofont-brand-windows',
         title: 'Biography',
     },
     {
-        imgUrl: '/assets/images/category/06.jpg',
+        imgUrl: '/assets/images/category/06.webp',
         imgAlt: 'Novel Books',
         iconName: 'icofont-brand-windows',
         title: 'Novel',
